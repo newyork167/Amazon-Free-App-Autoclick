@@ -1,3 +1,5 @@
+# Project created and maintained by Cody Dietz (Newyork167)
+
 from splinter import Browser
 import time
 
